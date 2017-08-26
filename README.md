@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://www.bigclown.com"><img src="https://s3.eu-central-1.amazonaws.com/bigclown/gh-readme-logo.png" alt="BigClown Logo" align="right"></a>
 
 # Firmware for BigClown Generic Node
@@ -24,3 +25,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 Made with &#x2764;&nbsp; by [BigClown Labs s.r.o.](https://www.bigclown.com) in Czech Republic.
+=======
+# bcf-rf-test-tx
+RF range test firmware, this TX side needs just Core Module
+>>>>>>> 8f293c5c635d947b4aaff1f00fb803cbf03940f2
